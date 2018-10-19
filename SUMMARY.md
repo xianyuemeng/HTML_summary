@@ -42,7 +42,11 @@
     * [jQuery事件](home/jQuery_j/4.jQuery事件.md)
     * [jquery元素节点操作](home/jQuery_j/5.jquery元素节点操作.md)
 * [AJAX](home/AJAX/AJAX.md)
- 
+* [VUE](home/VUE/vue.md)
+    * [创建第一个vue实例](home/VUE/1.创建第一个vue实例.md)
+    * [模版语法和基本指令](home/VUE/2.模版语法和基本指令.md)
+    * [Vue中的计算属性和侦听器](home/VUE/3.Vue中的计算属性和侦听器.md)
+    
 
 
 
